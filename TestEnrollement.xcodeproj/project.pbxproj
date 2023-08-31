@@ -15,13 +15,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4D248D112AA096470023044A /* AppKit */ = {isa = PBXFileReference; lastKnownFileType = text; path = AppKit; sourceTree = SOURCE_ROOT; };
 		4D3C07FF2AA085B600B044D8 /* TestEnrollement.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestEnrollement.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D3C08022AA085B600B044D8 /* TestEnrollementApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestEnrollementApp.swift; sourceTree = "<group>"; };
 		4D3C08042AA085B600B044D8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4D3C08062AA085B700B044D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D3C08082AA085B700B044D8 /* TestEnrollement.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TestEnrollement.entitlements; sourceTree = "<group>"; };
 		4D3C080A2AA085B700B044D8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		4D3C08112AA085DC00B044D8 /* AppKit */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = AppKit; path = ../../AppKit; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +56,7 @@
 		4D3C08012AA085B600B044D8 /* TestEnrollement */ = {
 			isa = PBXGroup;
 			children = (
-				4D3C08112AA085DC00B044D8 /* AppKit */,
+				4D248D112AA096470023044A /* AppKit */,
 				4D3C08022AA085B600B044D8 /* TestEnrollementApp.swift */,
 				4D3C08042AA085B600B044D8 /* ContentView.swift */,
 				4D3C08062AA085B700B044D8 /* Assets.xcassets */,
