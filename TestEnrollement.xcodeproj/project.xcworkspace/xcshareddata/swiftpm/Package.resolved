@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "mcdesignssystem-style-dictionary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TMD-DX-Mobile/MCDesignsSystem-style-dictionary",
+      "state" : {
+        "revision" : "43f540560c65061fd75833e2f5f196e6495f871c",
+        "version" : "2.48.0"
+      }
+    },
+    {
+      "identity" : "mcdesignsystem-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TMD-DX-Mobile/MCDesignSystem-ios",
+      "state" : {
+        "revision" : "291716992ff5df0974ff4f4a0fc39959d0f02790",
+        "version" : "1.44.0"
+      }
+    },
+    {
+      "identity" : "showcasekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TMD-DX-Mobile/ShowcaseKit.git",
+      "state" : {
+        "revision" : "1d1f8ec130921c05e207c5ca314701bf44a84759",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "swiftgenplugin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TMD-DX-Mobile/SwiftGenPlugin",
+      "state" : {
+        "revision" : "879b85a470cacd70c19e22eb7e11a3aed66f4068",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
